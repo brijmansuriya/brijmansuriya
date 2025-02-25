@@ -56,3 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+<h3 align="left">📝 My Blog</h3>
+<p>Check out my latest articles on web development at <a href="https://www.web-beast.com" target="_blank">Web Beast</a>!</p>
+
